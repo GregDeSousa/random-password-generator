@@ -30,4 +30,5 @@ function generate() {
     }
     password_out1.textContent = password_1;
     password_out2.textContent = password_2;
+    
 }
